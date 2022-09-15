@@ -2,5 +2,5 @@
 
 is here  
 
-<a href="ttps://wpiug.at" target="blank">www.wpiug.at</a>
+<a href="https://wpiug.at" target="blank">www.wpiug.at</a>
 
